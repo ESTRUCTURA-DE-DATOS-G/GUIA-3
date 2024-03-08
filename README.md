@@ -3,13 +3,15 @@
 ## PREGUNTAS ORIENTADORAS
 1. ¿Cuales fueron los aprendizajes obtenidos al realizar esta guía?, liste como mínimo 3 aprendizajes y
 relaciónelos con su futuro que hacer profesional.
-r:/ Uno de los aprendizajes mas importantes obtenidos fue aprender a manejar distintos algoritmos de ordenamiento, del mismo modo, conocimos
+
+R:/ Uno de los aprendizajes mas importantes obtenidos fue aprender a manejar distintos algoritmos de ordenamiento, del mismo modo, conocimos
 que algoritmos eran mas rapidos y cuales eran mas lentos, ademas aprendimos a tomar tiempos en Java. En nuetro futuro profesional es muy importante
 saber esto porque probablement trabajemos con grandes volumenes de datos y debemos estar en la capcidad de manipular correctamente los datos.
 
 2. ¿Donde presento mayor dificultad resolviendo la guía? y como lo resolvieron cuales fueron las
 estrategias de solución?
-r:/ Presentamos mayor dificultad a la hora de implementar el jTable con toda la logica del codigo, ademas presentamos dificultad a la hora de
+
+R:/ Presentamos mayor dificultad a la hora de implementar el jTable con toda la logica del codigo, ademas presentamos dificultad a la hora de
 representar y comparar los tiempos de cada algoritmo en java.
 
 ## PRESABERES REQUERIDOS
