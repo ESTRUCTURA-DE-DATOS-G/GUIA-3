@@ -34,5 +34,5 @@ Respuesta: a. Binaria
 ## PRUEBAS DE ESCRITORIO 
 https://umbedu-my.sharepoint.com/:x:/g/personal/franklincastaneda_dm_academia_umb_edu_co/EYwkQrYfHiNEvO76y511AIYBFN6E8yv5pLhxJdAVSQXoSg?e=Lc8eFT
 
-## Graficas de Complejidad Algoritmicas
+## GRAFICAS DE COMPLEJIDAD ALGORITMICAS
 https://umbedu-my.sharepoint.com/:w:/g/personal/juanmendoza_sm_academia_umb_edu_co/Ea4gGNzqOxtHhnobFSTxMsAB6755jl48UY_R4Cx4wSLfjQ?e=WD1OpH
